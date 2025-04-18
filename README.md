@@ -18,23 +18,6 @@ dist/assets/index-Ck89WXL8.js  13.78 kB │ gzip: 5.73 kB
 ✓ built in 213ms
 ```
 
-## Qwik
-
-```
-vite v6.3.2 building for production...
-✓ 9 modules transformed.
-dist/build\q-bundle-graph-8rt7ab.json                                      0.27 kB │ gzip:  0.19 kB
-dist/index.html                                                            0.39 kB │ gzip:  0.26 kB
-dist/q-manifest.json                                                       3.05 kB │ gzip:  0.79 kB
-dist/qwik-prefetch-service-worker.js                                       3.92 kB
-dist/assets/app.jsx_App_component_button_onClick_CM7Mer9CJL4-DLybh0sK.js   0.12 kB │ gzip:  0.13 kB
-dist/assets/app.jsx_App_component_vBdtONNNfT0-C1Z4F1X0.js                  0.35 kB │ gzip:  0.28 kB
-dist/assets/preload-helper-Cu3ncznH.js                                     1.28 kB │ gzip:  0.72 kB
-dist/assets/index-DN8TfiMF.js                                              3.66 kB │ gzip:  2.07 kB
-dist/assets/core.prod-1lNBibyQ.js                                         62.61 kB │ gzip: 22.89 kB
-✓ built in 502ms
-```
-
 ## React
 
 ```
