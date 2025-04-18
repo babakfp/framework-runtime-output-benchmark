@@ -1,3 +1,13 @@
+## Lit
+
+```
+vite v6.3.2 building for production...
+✓ 9 modules transformed.
+dist/index.html                 0.39 kB │ gzip: 0.26 kB
+dist/assets/index-PIa1JjvV.js  17.12 kB │ gzip: 6.41 kB
+✓ built in 258ms
+```
+
 ## React
 
 ```
