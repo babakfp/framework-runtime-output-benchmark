@@ -1,0 +1,8 @@
+{
+    "workspaces": [
+        "frameworks/react",
+        "frameworks/svelte",
+        "frameworks/vanilla",
+        "frameworks/vue"
+    ]
+}
