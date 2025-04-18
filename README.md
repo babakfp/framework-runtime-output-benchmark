@@ -28,6 +28,16 @@ dist/assets/index-DmQAGrce.js  187.41 kB │ gzip: 58.94 kB
 ✓ built in 905ms
 ```
 
+## Solid
+
+```
+vite v6.3.2 building for production...
+✓ 6 modules transformed.
+dist/index.html                0.39 kB │ gzip: 0.26 kB
+dist/assets/index-z0mNPPEj.js  8.31 kB │ gzip: 3.45 kB
+✓ built in 739ms
+```
+
 ## Svelte
 
 ```
