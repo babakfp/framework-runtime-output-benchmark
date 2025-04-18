@@ -8,6 +8,16 @@ dist/assets/index-PIa1JjvV.js  17.12 kB │ gzip: 6.41 kB
 ✓ built in 258ms
 ```
 
+## Preact
+
+```
+vite v6.3.2 building for production...
+✓ 7 modules transformed.
+dist/index.html                 0.39 kB │ gzip: 0.27 kB
+dist/assets/index-Ck89WXL8.js  13.78 kB │ gzip: 5.73 kB
+✓ built in 213ms
+```
+
 ## React
 
 ```
