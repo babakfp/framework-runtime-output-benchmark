@@ -1,4 +1,4 @@
-## Vanilla
+## 1. Vanilla 🥇
 
 ```
 vite v6.3.2 building for production...
@@ -8,7 +8,7 @@ dist/assets/index-DLCHVM_o.js  0.95 kB │ gzip: 0.52 kB
 ✓ built in 132ms
 ```
 
-## Solid
+## 2. Solid 🥈
 
 ```
 vite v6.3.2 building for production...
@@ -18,7 +18,7 @@ dist/assets/index-z0mNPPEj.js  8.31 kB │ gzip: 3.45 kB
 ✓ built in 739ms
 ```
 
-## Preact
+## 3. Preact 🥉
 
 ```
 vite v6.3.2 building for production...
@@ -28,7 +28,7 @@ dist/assets/index-Ck89WXL8.js  13.78 kB │ gzip: 5.73 kB
 ✓ built in 213ms
 ```
 
-## Svelte
+## 4. Svelte
 
 ```
 vite v6.3.2 building for production...
@@ -38,7 +38,7 @@ dist/assets/index-HnnU_XZQ.js  14.15 kB │ gzip: 5.98 kB
 ✓ built in 476ms
 ```
 
-## Lit
+## 5. Lit
 
 ```
 vite v6.3.2 building for production...
@@ -48,7 +48,7 @@ dist/assets/index-PIa1JjvV.js  17.12 kB │ gzip: 6.41 kB
 ✓ built in 258ms
 ```
 
-## Vue
+## 6. Vue
 
 ```
 vite v6.3.2 building for production...
@@ -58,7 +58,7 @@ dist/assets/index-D-7mDBX0.js  58.96 kB │ gzip: 23.68 kB
 ✓ built in 583ms
 ```
 
-## React
+## 7. React
 
 ```
 vite v6.3.2 building for production...
